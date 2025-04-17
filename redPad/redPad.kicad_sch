@@ -2419,16 +2419,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 86.36) (xy 185.42 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39995ee5-7e48-4de3-8650-91f3fd9c7fe9")
-	)
-	(wire
-		(pts
 			(xy 63.5 76.2) (xy 63.5 101.6)
 		)
 		(stroke
@@ -2459,6 +2449,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 78.74) (xy 185.42 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44bf2f0f-cd4c-49b6-957f-1ecb5103ca17")
+	)
+	(wire
+		(pts
 			(xy 87.63 114.3) (xy 106.68 114.3)
 		)
 		(stroke
@@ -2466,6 +2466,16 @@
 			(type default)
 		)
 		(uuid "45a14166-3764-49d3-b646-56ad8b08e176")
+	)
+	(wire
+		(pts
+			(xy 181.61 81.28) (xy 185.42 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49bd6051-a80b-4e44-b82e-c73c40eede11")
 	)
 	(wire
 		(pts
@@ -2589,6 +2599,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 83.82) (xy 185.42 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d2dbd9a-b4ab-4a35-919b-2aa0f3861956")
+	)
+	(wire
+		(pts
 			(xy 101.6 76.2) (xy 101.6 101.6)
 		)
 		(stroke
@@ -2709,6 +2729,16 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 86.36) (xy 185.42 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a31ba5f3-3554-4574-a1d4-71670bece8bf")
+	)
+	(wire
+		(pts
 			(xy 88.9 158.75) (xy 88.9 157.48)
 		)
 		(stroke
@@ -2726,16 +2756,6 @@
 			(type default)
 		)
 		(uuid "b04dfbc0-3200-4cd2-9a8c-2088f37d1e34")
-	)
-	(wire
-		(pts
-			(xy 181.61 78.74) (xy 185.42 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2ea3fea-a993-4569-83b6-4865a9029921")
 	)
 	(wire
 		(pts
@@ -2849,16 +2869,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 81.28) (xy 185.42 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5cb81a6-c3a0-4e0f-8e45-fab0213427db")
-	)
-	(wire
-		(pts
 			(xy 125.73 114.3) (xy 139.7 114.3)
 		)
 		(stroke
@@ -2916,16 +2926,6 @@
 			(type default)
 		)
 		(uuid "ebfbf060-b15c-4fb7-a0b3-42e86043f67d")
-	)
-	(wire
-		(pts
-			(xy 181.61 83.82) (xy 185.42 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eca759c5-c907-459a-b4c8-0a3b4afabe40")
 	)
 	(wire
 		(pts
@@ -3033,7 +3033,7 @@
 	)
 	(global_label "COL 1"
 		(shape input)
-		(at 181.61 83.82 180)
+		(at 181.61 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3043,7 +3043,7 @@
 		)
 		(uuid "0a738aa3-7a66-451c-bef3-6c0b70e63cd4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.8191 83.82 0)
+			(at 172.8191 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3605,7 +3605,7 @@
 	)
 	(global_label "COL 0"
 		(shape input)
-		(at 181.61 86.36 180)
+		(at 181.61 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3615,7 +3615,7 @@
 		)
 		(uuid "c62dc58c-8f0b-426c-89ac-750bf3d7b0e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.8191 86.36 0)
+			(at 172.8191 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3627,7 +3627,7 @@
 	)
 	(global_label "COL 2"
 		(shape input)
-		(at 181.61 81.28 180)
+		(at 181.61 83.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3637,7 +3637,7 @@
 		)
 		(uuid "d02116ca-8a25-4581-90d3-be88a6106691")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.8191 81.28 0)
+			(at 172.8191 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3737,7 +3737,7 @@
 	)
 	(global_label "COL 3"
 		(shape input)
-		(at 181.61 78.74 180)
+		(at 181.61 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3747,7 +3747,7 @@
 		)
 		(uuid "efee480b-9ff9-41a4-9c27-8b826b288a19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.8191 78.74 0)
+			(at 172.8191 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5868,7 +5868,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:Button_TL3342"
+		(property "Footprint" "RedComponents:SW TS-B003-Y"
 			(at 93.98 163.83 0)
 			(effects
 				(font
@@ -6951,7 +6951,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery")
-		(at 57.15 171.45 0)
+		(at 57.15 171.45 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6960,25 +6960,25 @@
 		(fields_autoplaced yes)
 		(uuid "faf2dfe1-c602-494b-956c-f5674a876a5a")
 		(property "Reference" "BT1"
-			(at 60.96 169.6084 0)
+			(at 60.96 170.7514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "Battery"
-			(at 60.96 172.1484 0)
+			(at 60.96 173.2914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_ACH_BM01B-ACHSS-A-GAN-ETF_1x01-1MP_P1.20mm_Vertical"
-			(at 57.15 169.926 90)
+		(property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal"
+			(at 57.15 172.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6987,7 +6987,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 169.926 90)
+			(at 57.15 172.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)

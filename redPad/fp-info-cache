@@ -1,4 +1,4 @@
-27292385687647705
+27295877240883984
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93660,12 +93660,26 @@ WiFi IEEE802.11 b/g/n
 44
 44
 RedComponents
+MountingHole_4.5mm
+Mounting Hole 4.5mm, no annular
+mounting hole 4.5mm no annular
+0
+0
+0
+RedComponents
 MultiDiode
 
 
 0
 4
 2
+RedComponents
+SW TS-B003-Y
+
+
+0
+6
+3
 RedComponents
 SuperMini NRF52840
 
