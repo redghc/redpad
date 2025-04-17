@@ -6,8 +6,8 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U"
-			(at 0 0 0)
+		(property "Reference" "SuperMini-NRF52840"
+			(at 0 0 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -298,24 +298,6 @@
 				)
 			)
 			(pin input line
-				(at -5.08 27.94 270)
-				(length 2.54)
-				(name "VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "30"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
 				(at -3.81 -27.94 90)
 				(length 2.54)
 				(name "P1.01"
@@ -326,24 +308,6 @@
 					)
 				)
 				(number "27"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -1.27 27.94 270)
-				(length 2.54)
-				(name "DIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "31"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -370,24 +334,6 @@
 				)
 			)
 			(pin input line
-				(at 2.54 27.94 270)
-				(length 2.54)
-				(name "CLK"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "32"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
 				(at 3.81 -27.94 90)
 				(length 2.54)
 				(name "P1.07"
@@ -398,24 +344,6 @@
 					)
 				)
 				(number "29"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 6.35 27.94 270)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "33"
 					(effects
 						(font
 							(size 1.27 1.27)

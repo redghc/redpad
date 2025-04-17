@@ -1,4 +1,4 @@
-27290640651580370
+27292385687647705
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93659,6 +93659,20 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RedComponents
+MultiDiode
+
+
+0
+4
+2
+RedComponents
+SuperMini NRF52840
+
+
+0
+29
+29
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -101315,8 +101329,8 @@ SuperMini NRF52840
 
 
 0
-0
-0
+29
+29
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -109563,10 +109577,3 @@ Varistor VF
 0
 2
 2
-supermini
-SuperMini NRF52840
-
-
-0
-51
-45

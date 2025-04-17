@@ -2,12 +2,12 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "SuperMini_nrf52840"
+	(symbol "SuperMini NRF52840"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "U"
-			(at 0 0 0)
+		(property "Reference" "SuperMini-NRF52840"
+			(at 0 0 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49,7 +49,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "SuperMini_nrf52840_0_1"
+		(symbol "SuperMini NRF52840_0_1"
 			(rectangle
 				(start -15.24 25.4)
 				(end 15.24 -25.4)
@@ -62,7 +62,7 @@
 				)
 			)
 		)
-		(symbol "SuperMini_nrf52840_1_1"
+		(symbol "SuperMini NRF52840_1_1"
 			(pin input line
 				(at -17.78 15.24 0)
 				(length 2.54)
